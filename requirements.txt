@@ -10,3 +10,4 @@ Webpack
 Git
     Production
     Development
+1.07
